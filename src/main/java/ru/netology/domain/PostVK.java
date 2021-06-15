@@ -1,8 +1,5 @@
 package ru.netology.domain;
 
-import ru.netology.Like;
-import ru.netology.ViewsInfo;
-
 public class PostVK {
     private int id;
     private String fromId;
